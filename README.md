@@ -1,1 +1,1 @@
-some text for my read me
+some text of tgis read me
