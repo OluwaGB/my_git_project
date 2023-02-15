@@ -1,0 +1,96 @@
+body{background-image: url(Images/D.jpeg); 
+  height:auto;
+  width:auto;
+}
+.wrap {background-color:white;
+    font-size: 15pt;
+    text-align: center;
+    place-self: center;
+    padding:inherit;
+}
+#text{
+  font-family: monospace;
+}
+header{font-family: Arial, Helvetica, sans-serif;
+  background-color: dodgerblue;
+  height:auto;
+  width:auto;
+  padding:10px;
+  color:white;
+  margin-bottom: 20px;
+width:350px;
+  padding:10px;
+  font-size: 35px;
+  font-weight: bold;
+}
+#header{
+  color:Black;
+  font-size:30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+  width:100px;
+  height:100px;
+}
+#img{
+  border-radius:50%;
+}
+hr{
+background-color:dodgerblue;
+  width:50px;
+  place-items: center;
+}
+h,h1,p{color:dodgerblue;}
+h1{
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+  font-family:monospace;
+  font-size: 15px;
+}
+#form{
+  background-color: white;
+  border-bottom-color:dodgerblue;
+  border-bottom:2px solid dodgerblue;
+  border-style:outset;
+  margin:40px;
+  padding:20px;
+  border-radius:10px;
+}
+#form:hover{
+  width:170px;
+  background-color:teal;
+}
+ul{
+  font-size: 10px;
+  font-family: monospace;
+}
+footer{padding:10px;
+color:white;
+margin:2px 5px 10px 5px;
+  background-color:dodgerblue;
+}
+#p,h2{
+  color:white;
+  font-family: sans-serif;
+}
+#btn{width:100px;
+  color:white;
+  border:none;
+  padding:10px;
+  background-color:black;
+}
+input,textarea{
+  border-width: 100px;
+  border:none;
+  margin:5px;
+}
+a{text-decoration: none;}
+a:hover{
+  color:red;
+  font-size: 21px;
+  transition-duration: 3s;
+  
+  transition: ease-in-out;
+}
