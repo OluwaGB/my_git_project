@@ -1,0 +1,10 @@
+.form-container{
+  display:flex;
+  justify-content: space-between;
+  margin: 20px;
+  background-color: darkblue;
+  width:100%;
+  max-width: 500px;
+  margin:auto;
+  
+}
