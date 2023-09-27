@@ -1,0 +1,5 @@
+birthday = document.getDate();
+function(dob){
+return Date()}
+Age = 2022 - Date()
+console.log(newAge)
